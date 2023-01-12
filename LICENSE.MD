@@ -1,5 +1,4 @@
 The data in https://github.com/sio-co2o2/keelingcurve_notebooks is licensed under a 
-![CC-By license icon]([http://url/to/img.png]([https://i.creativecommons.org/l/by/4.0/88x31.png](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png))) 
 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
 
 
