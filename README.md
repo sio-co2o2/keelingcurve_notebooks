@@ -2,45 +2,59 @@
 
 ## Overview
 
-This repository contains Jupyter notebooks that open in Google Colab and MLO data used to create the plots seen on the home page of [keelingcurve.ucsd.edu](keelingcurve.ucsd.edu). The notebooks are in the notebooks folder and the main notebook with an overview and links to all the plotting notebooks is called 'overview_of_notebooks_keelingcurve.ipynb'.
+This repository contains [Jupyter notebooks](https://github.com/sio-co2o2/keelingcurve_notebooks/tree/main/notebooks) that create plots seen on the home page of [keelingcurve.ucsd.edu](keelingcurve.ucsd.edu) and each notebook can be altered to create custom versions of these plots. Each notebook can be opened in Google Colaboratory by clicking on the 'Open in Colab' link at the top of each notebook.
 
-The data is updated when there is a tweet from the [Keeling Curve twitter](https://twitter.com/Keeling_curve) account which occurs nearly daily. Icecore data is fetched from [https://www.ncei.noaa.gov](https://www.ncei.noaa.gov). The last month of MLO data is preliminary and is subject to corrections due to factors discussed in the [data sources](#Data-Sources) section.
+[Overview and list of notebooks](https://github.com/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/overview_of_notebooks_keelingcurve.ipynb) contains an overview and links to all the notebooks.
 
-The plots are created using CO2 Concentration data from Mauna Loa Observatory (MLO) and a select few also include Icecore CO2 concentration data. The plots are over a variety of time periods.
+## Data used in the Jupyter notebooks
 
-The latest month of MLO data used to create the plots is preliminary.
+The plots are created using CO2 Concentration data from Mauna Loa Observatory (MLO) and a some of the plots also use Icecore CO2 concentration data.
 
-## Notebooks for the Keeling Curve
-
-### Plot the MLO CO<sub>2</sub> record at various time intervals
-
-- [Plot the full MLO Record](https://colab.research.google.com/github/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks)
-
-- [Plot the MLO Record one week previous](https://colab.research.google.com/github/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/plot_mlo_one_week_keelingcurve.ipynb)
-
-- [Plot the MLO Record one month previous](https://colab.research.google.com/github/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/plot_mlo_one_month_keelingcurve.ipynb)
-
-- [Plot the MLO Record six months previous](https://colab.research.google.com/github/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/plot_mlo_six_months_keelingcurve.ipynb)
-
-- [Plot the MLO Record one year previous](https://colab.research.google.com/github/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/plot_mlo_one_year_keelingcurve.ipynb)
-
-- [Plot the MLO Record two years previous](https://colab.research.google.com/github/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/plot_mlo_two_years_keelingcurve.ipynb)
-
-### Plot the combined icecore and MLO CO<sub>2</sub> record at various time intervals
-
-- [Plot icecore and MLO records from 1700 to the present](https://colab.research.google.com/github/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/plot_icecore_start_1700_ce_keelingcurve.ipynb)
-
-- [Plot icecore and MLO records back 2000 years from the present](https://colab.research.google.com/github/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/plot_icecore_back_2K_ce_keelingcurve.ipynb)
-
-- [Plot icecore and MLO records back 10K years from the present](https://colab.research.google.com/github/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/plot_icecore_back_10K_keelingcurve.ipynb)
-
-- [Plot icecore and MLO records back 800K years from the present](https://colab.research.google.com/github/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/plot_icecore_back_800K_keelingcurve.ipynb)
+The data is updated when there is a tweet from the [Keeling Curve twitter](https://twitter.com/Keeling_curve) account which occurs nearly daily. Icecore data is fetched from [https://www.ncei.noaa.gov](https://www.ncei.noaa.gov). The last month of MLO data is preliminary and is subject to corrections due to factors discussed in the Data Sources section.
 
 ## MLO data from the most recent month is preliminary
 
 Mauna Loa carbon dioxide data from the most recent month is preliminary and subject to subsequent updates to account for retrospective calibration and quality control. See scrippsco2.ucsd.edu for data that has passed these routine quality checks and updates. The datasets are archived once a month on the scrippsco2.ucsd.edu website and the Scripps CO2 Program library archive database at UCSD.
 
-## Citations
+## Data and graphics sharing policy
+
+For applications supporting peer-reviewed scientific publications,
+coauthorship may sometimes be appropriate. An example would be if an important result or conclusion
+depends on this product, such as the first account of a previously unreported phenomenon. Ethical
+usage requires disclosing intentions at early stages of the work in order to avoid duplicating
+ongoing studies at Scripps. For applications where coauthorship is not needed, which includes all
+applications outside of the peer-reviewed scientific literature, it is sufficient to acknowledge the
+Scripps CO2 program as the source of the Mauna Loa CO2 data.
+Please direct queries to Ralph Keeling (rkeeling@ucsd.edu)
+
+The Mauna Loa CO2 data from the Scripps CO2 program and the graphics generated by the
+Jupyter notebooks located in the
+GitHub repository [https://github.com/sio-co2o2/keelingcurve_notebooks](https://github.com/sio-co2o2/keelingcurve_notebooks)
+are made freely available, with the understanding that appropriate credit will be given.
+
+For graphics created using only Scripps CO2 Program Mauna Loa data, cite as:
+Mauna Loa CO2 data from the Scripps CO2 Program at Scripps Institution of Oceanography
+at UC San Diego.
+
+For graphics created using both Scripps CO2 Program Mauna Loa data and NCEI icecore data, cite as:
+Citation: Mauna Loa CO2 data from the Scripps CO2 Program at
+Scripps Institution of Oceanography at UC San Diego.
+
+For graphics using Ice Core data before 1958 and going back 2000 years ago:
+Citation: MacFarling Meure, C., D. Etheridge, C. Trudinger, P. Steele, R. Langenfelds, T. van Ommen,
+A. Smith, and J. Elkins. 2006. The Law Dome CO2, CH4 and N2O Ice Core Records Extended to
+2000 years BP. Geophysical Research Letters, Vol. 33, No. 14, L14810 10.1029/2006GL026152.
+DOI: https://doi.org/10.1029/2006GL026152
+
+For graphics using Ice Core data before 1958 and going back 800,000 years ago:
+Citation: Lüthi, D., M. Le Floch, B. Bereiter, T. Blunier, J.-M. Barnola, U. Siegenthaler,
+D. Raynaud, J. Jouzel, H. Fischer, K. Kawamura, and T.F. Stocker. 2008. High-resolution carbon
+dioxide concentration record 650,000-800,000 years before present.
+Nature, Vol. 453, pp. 379-382, 15 May 2008.
+DOI: https://doi.org/10.1038/nature06949
+
+
+## Data Sources
 
 ### Mauna Loa Observatory Data
 
@@ -72,7 +86,29 @@ Mauna Loa carbon dioxide data from the most recent month is preliminary and subj
 
 * Citation:* Lüthi, D., M. Le Floch, B. Bereiter, T. Blunier, J.-M. Barnola, U. Siegenthaler, D. Raynaud, J. Jouzel, H. Fischer, K. Kawamura, and T.F. Stocker. 2008. High-resolution carbon dioxide concentration record 650,000-800,000 years before present. Nature, Vol. 453, pp. 379-382, 15 May 2008.
 
-## Permissions
 
-Scripps CO2 program grants unrestricted usage of the figures on this website provided credit is given to the Scripps Institution of Oceanography. For figures showing data before 1958, permission may also be required from those providing these earlier data (see links below). The figures referred to here are the plots displayed on the front page and located at PDF Downloads.
+## Jupyter notebooks to create the plots on the front page of keelingcurve.ucsd.edu
 
+### Plot the MLO CO<sub>2</sub> record at various time intervals
+
+- [Plot the full MLO Record](https://colab.research.google.com/github/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks)
+
+- [Plot the MLO Record one week previous](https://colab.research.google.com/github/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/plot_mlo_one_week_keelingcurve.ipynb)
+
+- [Plot the MLO Record one month previous](https://colab.research.google.com/github/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/plot_mlo_one_month_keelingcurve.ipynb)
+
+- [Plot the MLO Record six months previous](https://colab.research.google.com/github/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/plot_mlo_six_months_keelingcurve.ipynb)
+
+- [Plot the MLO Record one year previous](https://colab.research.google.com/github/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/plot_mlo_one_year_keelingcurve.ipynb)
+
+- [Plot the MLO Record two years previous](https://colab.research.google.com/github/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/plot_mlo_two_years_keelingcurve.ipynb)
+
+### Plot the combined icecore and MLO CO<sub>2</sub> record at various time intervals
+
+- [Plot icecore and MLO records from 1700 to the present](https://colab.research.google.com/github/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/plot_icecore_start_1700_ce_keelingcurve.ipynb)
+
+- [Plot icecore and MLO records back 2000 years from the present](https://colab.research.google.com/github/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/plot_icecore_back_2K_ce_keelingcurve.ipynb)
+
+- [Plot icecore and MLO records back 10K years from the present](https://colab.research.google.com/github/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/plot_icecore_back_10K_keelingcurve.ipynb)
+
+- [Plot icecore and MLO records back 800K years from the present](https://colab.research.google.com/github/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/plot_icecore_back_800K_keelingcurve.ipynb)
