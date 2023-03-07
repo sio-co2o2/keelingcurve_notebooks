@@ -1,8 +1,17 @@
-The data in https://github.com/sio-co2o2/keelingcurve_notebooks is licensed under a
-[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
+## **Data and Graphics Usage Restrictions>**
+
+Scripps CO2 program graphics on keelingcurve.ucsd.edu are licensed under a CC BY license, Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which clarifies appropriate uses and requirements. The graphics must be credited to the Scripps Institution of Oceanography at UC San Diego.  For graphics which show ice-core data, additional credit must be given for these products, as appropriate for that source (see data sources section).
+
+For applications supporting peer-reviewed scientific publications, ethical usage may also require disclosing intentions at early stages to avoid duplicating ongoing studies at Scripps or elsewhere. For such applications, coauthorship may sometimes be appropriate. An example would be if an important result or conclusion depends on this product, such as the first account of a previously unreported phenomenon.
+
+The graphics referred to here are the plots displayed on the front page and located at PDF Downloads.
+
+Please direct queries to Ralph Keeling (rkeeling@ucsd.edu).
 
 
-The software in https://github.com/sio-co2o2/keelingcurve_notebooks is licensed under a BSD 3-Clause license described below:
+## **Notebooks License**
+
+The software in [https://github.com/sio-co2o2/keelingcurve_notebooks](https://github.com/sio-co2o2/keelingcurve_notebooks) is licensed under the following:
 
 BSD 3-Clause License
 
