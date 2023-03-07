@@ -1,8 +1,8 @@
-The data in https://github.com/sio-co2o2/keelingcurve_notebooks is licensed under a 
+The data in https://github.com/sio-co2o2/keelingcurve_notebooks is licensed under a
 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
 
 
-The software in https://github.com/sio-co2o2/keelingcurve_notebooks is licensed under the following:
+The software in https://github.com/sio-co2o2/keelingcurve_notebooks is licensed under a BSD 3-Clause license described below:
 
 BSD 3-Clause License
 
