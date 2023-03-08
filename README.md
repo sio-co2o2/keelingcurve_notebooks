@@ -4,7 +4,11 @@
 
 This repository contains [Jupyter notebooks](https://github.com/sio-co2o2/keelingcurve_notebooks/tree/main/notebooks) that create plots seen on the home page of [keelingcurve.ucsd.edu](keelingcurve.ucsd.edu) and each notebook can be altered to create custom versions of these plots. Each notebook can be opened in Google Colaboratory by clicking on the 'Open in Colab' link at the top of each notebook.
 
-[Overview, usage, and list of all the notebooks](https://github.com/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/overview_of_notebooks_keelingcurve.ipynb)
+[Overview of the notebooks](https://github.com/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/overview_of_notebooks_keelingcurve.ipynb)
+
+[How to run and save the notebooks](https://github.com/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/how_to_run_save_notebooks_keelingcuve.ipynb)
+
+[How to modify the notebooks](https://github.com/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/how_to_modify_notebooks_keelingcurve.ipynb)
 
 
 ## **Jupyter notebooks to create the plots on the front page of keelingcurve.ucsd.edu**
