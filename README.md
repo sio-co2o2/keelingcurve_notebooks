@@ -10,8 +10,10 @@ This repository contains [Jupyter notebooks](https://github.com/sio-co2o2/keelin
 
 [How to modify the notebooks](https://github.com/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/how_to_modify_notebooks_keelingcurve.ipynb)
 
+[Overview of python](https://colab.research.google.com/github/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/overview_of_python_keelingcurve.ipynb)
 
-## **Jupyter notebooks to create the plots on the front page of keelingcurve.ucsd.edu**
+
+## **Jupyter notebooks to create graphics on the front page of keelingcurve.ucsd.edu**
 
 ### **Plot the MLO CO<sub>2</sub> record at various time intervals**
 
@@ -37,7 +39,7 @@ This repository contains [Jupyter notebooks](https://github.com/sio-co2o2/keelin
 
 - [Plot icecore and MLO records back 800K years from the present](https://colab.research.google.com/github/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/plot_icecore_back_800K_keelingcurve.ipynb)
 
-### **Create animations**
+## **Jupyter notebooks to create animations of select graphics on the front page of keelingcurve.ucsd.edu**
 
 - [Create animation of the full MLO record](https://colab.research.google.com/github/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/create_animation_full_mlo_record_keelingcurve.ipynb)
 
