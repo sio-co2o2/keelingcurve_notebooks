@@ -1,12 +1,12 @@
-## **Data and Graphics Usage Restrictions>**
+## **Data and Graphics License**
 
-Scripps CO2 program graphics on keelingcurve.ucsd.edu are licensed under a CC BY license, Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which clarifies appropriate uses and requirements. The graphics must be credited to the Scripps Institution of Oceanography at UC San Diego.  For graphics which show ice-core data, additional credit must be given for these products, as appropriate for that source (see data sources section).
+Scripps CO<sub>2</sub> program data on [https://github.com/sio-co2o2/keelingcurve_notebooks](https://github.com/sio-co2o2/keelingcurve_notebooks) and graphics created from the notebooks are licensed under a CC BY license, Creative Commons Attribution 4.0 International [License](http://creativecommons.org/licenses/by/4.0/) ![title](https://raw.githubusercontent.com/sio-co2o2/keelingcurve_notebooks/main/images/cc-by-badge.png), which clarifies appropriate uses and requirements. The graphics must be credited to the Scripps Institution of Oceanography at UC San Diego.  
+
+For graphics which show ice-core data, additional credit must be given for these products, as appropriate for that source (see the data sources section in the [overview notebook](https://colab.research.google.com/github/sio-co2o2/keelingcurve_notebooks/blob/main/notebooks/overview_of_notebooks_keelingcurve.ipynb)).
 
 For applications supporting peer-reviewed scientific publications, ethical usage may also require disclosing intentions at early stages to avoid duplicating ongoing studies at Scripps or elsewhere. For such applications, coauthorship may sometimes be appropriate. An example would be if an important result or conclusion depends on this product, such as the first account of a previously unreported phenomenon.
 
-The graphics referred to here are the plots displayed on the front page and located at PDF Downloads.
-
-Please direct queries to Ralph Keeling (rkeeling@ucsd.edu).
+Please direct queries to [Ralph Keeling](mailto:rkeeling@ucsd.edu).
 
 
 ## **Notebooks License**
