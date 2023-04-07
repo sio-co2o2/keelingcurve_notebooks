@@ -24,7 +24,7 @@
 " about the data should be directed to Dr. Ralph Keeling (rkeeling@ucsd.edu), Stephen Walker"
 " (sjwalker@ucsd.edu) and Stephen Piper (scpiper@ucsd.edu), Scripps CO2 Program.            "
 "                                                                                           "
-" Baseline data in this file through 05-Feb-2023 from archive dated 06-Feb-2023             "
+" Baseline data in this file through 05-Apr-2023 from archive dated 06-Apr-2023             "
 "                                                                                           "
 "-------------------------------------------------------------------------------------------"
 "                                                                                           "
@@ -868,3 +868,5 @@ date,co2,date_seas_adj,co2_seas_adj,date_fit,co2_fit,date_seas_adj_fit,co2_seas_
 2023.24520547945,421.39,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 2023.24657534247,421.33,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 2023.25342465753,421.96,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2023.25890410959,422.09,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2023.26164383562,422.63,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
