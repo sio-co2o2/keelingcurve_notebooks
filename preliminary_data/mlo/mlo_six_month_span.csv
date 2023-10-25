@@ -23,7 +23,7 @@
 " about the data should be directed to Dr. Ralph Keeling (rkeeling@ucsd.edu), Stephen Walker"
 " (sjwalker@ucsd.edu) and Stephen Piper (scpiper@ucsd.edu), Scripps CO2 Program.            "
 "                                                                                           "
-" Baseline data in this file through 20-Oct-2023 from archive dated 23-Oct-2023             "
+" Baseline data in this file through 23-Oct-2023 from archive dated 24-Oct-2023             "
 "                                                                                           "
 "-------------------------------------------------------------------------------------------"
 "                                                                                           "
@@ -64,7 +64,6 @@
 " CO2 concentrations are measured on the '12' calibration scale                             "
 "                                                                                           "
 date_dy,co2_dy,date_wk,co2_wk
-2023.228767,420.73,2023.227397,420.87
 2023.234247,420.97,2023.246575,421.33
 2023.236986,421.2,2023.265753,422.2
 2023.239726,420.65,2023.284932,423.02
@@ -94,7 +93,7 @@ date_dy,co2_dy,date_wk,co2_wk
 2023.357534,423.81,2023.745205,417.89
 2023.360274,423.95,2023.764384,418.1
 2023.363014,424.19,2023.783562,418.82
-2023.365753,424.12,NaN,NaN
+2023.365753,424.12,2023.80274,418.85
 2023.368493,424.26,NaN,NaN
 2023.371233,422.52,NaN,NaN
 2023.373973,422.12,NaN,NaN
@@ -190,4 +189,5 @@ date_dy,co2_dy,date_wk,co2_wk
 2023.79589,419.19,NaN,NaN
 2023.79863,419.21,NaN,NaN
 2023.80137,418.63,NaN,NaN
-2023.809589,418.62,NaN,NaN
+2023.809589,418.61,NaN,NaN
+2023.812329,418.62,NaN,NaN
