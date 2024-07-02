@@ -64,7 +64,6 @@
 " CO2 concentrations are measured on the '12' calibration scale                             "
 "                                                                                           "
 date_dy,co2_dy,date_wk,co2_wk
-2023.91917808219,NaN,2023.91780821918,420.28
 2023.92191780822,NaN,2023.93698630137,421.23
 2023.92465753425,420.18,2023.95616438356,422.57
 2023.92739726027,NaN,2023.97534246575,422.06
@@ -306,3 +305,4 @@ date_dy,co2_dy,date_wk,co2_wk
 2024.57240437158,NaN,NaN,NaN
 2024.57513661202,NaN,NaN,NaN
 2024.57786885246,NaN,NaN,NaN
+2024.5806010929,NaN,NaN,NaN
