@@ -24,7 +24,7 @@
 " about the data should be directed to Dr. Ralph Keeling (rkeeling@ucsd.edu), Stephen Walker"
 " (sjwalker@ucsd.edu) and Stephen Piper (scpiper@ucsd.edu), Scripps CO2 Program.            "
 "                                                                                           "
-" Baseline data in this file through 29-Nov-2025 from archive dated 03-Dec-2025             "
+" Baseline data in this file through 03-Mar-2026 from archive dated 04-Mar-2026             "
 "                                                                                           "
 "-------------------------------------------------------------------------------------------"
 "                                                                                           "
@@ -902,13 +902,13 @@ date,co2,date_seas_adj,co2_seas_adj,date_fit,co2_fit,date_seas_adj_fit,co2_seas_
 2026.14931506849,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 2026.15205479452,430.43,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 2026.15479452055,429.99,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-2026.15753424658,429.34,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2026.15753424658,429.35,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 2026.15890410959,429.61,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-2026.1602739726,429.48,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2026.1602739726,429.49,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 2026.16301369863,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 2026.16575342466,429.01,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-2026.16849315068,429.39,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-2026.17123287671,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2026.16849315068,429.4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2026.17123287671,429.01,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 2026.17397260274,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 2026.17671232877,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 2026.17945205479,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
